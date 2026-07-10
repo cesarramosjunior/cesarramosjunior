@@ -1,6 +1,6 @@
 # Olá, eu sou o Cesar 👋
 
-**Analytics Engineer & Data Engineer** — construo infraestrutura de dados que já nasce pensando na pergunta que o negócio vai fazer.
+**Analytics & Data Engineer | Líder de BI** — construo infraestrutura de dados que já nasce pensando na pergunta que o negócio vai fazer.
 
 **Português** | [English](#english-version)
 
@@ -55,7 +55,7 @@ Aberto a oportunidades em **Analytics Engineering**, **Data Engineering** e **BI
 
 # Hi, I'm Cesar 👋
 
-**Analytics Engineer & Data Engineer** — I build data infrastructure designed so the right question already has an answer before it's asked.
+**Analytics & Data Engineer | BI Leader** — I build data infrastructure designed so the right question already has an answer before it's asked.
 
 ### About me
 
